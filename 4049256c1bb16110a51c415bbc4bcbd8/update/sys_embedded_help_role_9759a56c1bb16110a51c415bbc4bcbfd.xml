@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_qab_dummy_applic.admin" name="x_qab_dummy_applic.admin">1f59e1e81bb16110a51c415bbc4bcbc1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 08:52:34</sys_created_on>
+        <sys_id>9759a56c1bb16110a51c415bbc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1f59e1e81bb16110a51c415bbc4bcbc1</sys_name>
+        <sys_package display_value="Dummy Application" source="x_qab_dummy_applic">4049256c1bb16110a51c415bbc4bcbd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dummy Application">4049256c1bb16110a51c415bbc4bcbd8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9759a56c1bb16110a51c415bbc4bcbfd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 08:52:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

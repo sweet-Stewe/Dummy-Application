@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Dummy Table" language="en" table="x_qab_dummy_applic_dummy_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Dummy Table</label>
+            <language>en</language>
+            <name>x_qab_dummy_applic_dummy_table</name>
+            <plural>Dummy Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-22 08:53:46</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dummy Table</sys_name>
+            <sys_package display_value="Dummy Application" source="x_qab_dummy_applic">4049256c1bb16110a51c415bbc4bcbd8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dummy Application">4049256c1bb16110a51c415bbc4bcbd8</sys_scope>
+            <sys_update_name>sys_documentation_x_qab_dummy_applic_dummy_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-22 08:53:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

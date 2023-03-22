@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-22 08:53:51</sys_created_on>
+        <sys_id>8aa9e96c1bb16110a51c415bbc4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_qab_dummy_applic_dummy_table.x_qab_dummy_applic.user</sys_name>
+        <sys_package display_value="Dummy Application" source="x_qab_dummy_applic">4049256c1bb16110a51c415bbc4bcbd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dummy Application">4049256c1bb16110a51c415bbc4bcbd8</sys_scope>
+        <sys_security_acl display_value="x_qab_dummy_applic_dummy_table">46a9e96c1bb16110a51c415bbc4bcb25</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8aa9e96c1bb16110a51c415bbc4bcb28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-22 08:53:51</sys_updated_on>
+        <sys_user_role display_value="x_qab_dummy_applic.user" name="x_qab_dummy_applic.user">eb5965e81bb16110a51c415bbc4bcb0c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
